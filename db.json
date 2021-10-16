@@ -1,12 +1,12 @@
 {
-  -{
+  {
     "name": "Aconitum",
     "id": 1,
     "family": "Ranunculaceae",
     "native": "NorthernHemisphere",
     "bloom": "Summer"
   },
-  -{
+  {
     "name": "Baptisia",
     "id": 2,
     "family": "Fabaceae",
@@ -89,5 +89,5 @@
     "family": "Cactus",
     "native": "America",
     "bloom": "Summer"
-  }
+  },
 }
