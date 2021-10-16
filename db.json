@@ -1,14 +1,93 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Aconitum",
+    "id": 1,
+    "family": "Ranunculaceae",
+    "native": "NorthernHemisphere",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Baptisia",
+    "id": 2,
+    "family": "Fabaceae",
+    "native": "NorthAmerica",
+    "bloom": "Spring"
+  },
+  {
+    "name": "Calendula",
+    "id": 3,
+    "family": "Asteraceae",
+    "native": "Asia",
+    "bloom": "Spring"
+  },
+  {
+    "name": "Dahlia",
+    "id": 4,
+    "family": "Asteraceae",
+    "native": "Central America",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Felicia",
+    "id": 5,
+    "family": "Asteraceae",
+    "native": "SouthernAfrica",
+    "bloom": "Spring"
+  },
+  {
+    "name": "Helenium",
+    "id": 6,
+    "family": "Asteraceae",
+    "native": "Americas",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Ipomoea",
+    "id": 7,
+    "family": "Convolvulaceae",
+    "native": "America",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Jacaranda",
+    "id": 8,
+    "family": "Bignoniaceae",
+    "native": "Australia",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Kerria",
+    "id": 9,
+    "family": "Rosaceae",
+    "native": "EastAsia",
+    "bloom": "Spring"
+  },
+  {
+    "name": "Leontopodium",
+    "id": 10,
+    "family": "Asteraceae",
+    "native": "Europe",
+    "bloom": "Spring"
+  },
+  {
+    "name": "Mandevilla",
+    "id": 11,
+    "family": "Apocynaceae",
+    "native": "SouthAmerica",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Nelumbo",
+    "id": 12,
+    "family": "Nelumbonaceae",
+    "native": "Australia",
+    "bloom": "Summer"
+  },
+  {
+    "name": "Opuntia",
+    "id": 13,
+    "family": "Cactus",
+    "native": "America",
+    "bloom": "Summer"
   }
-}
+]
