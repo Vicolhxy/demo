@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Aconitum",
     "id": 1,
@@ -90,4 +90,4 @@
     "native": "America",
     "bloom": "Summer"
   },
-}
+]
